@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This isagain a commit  
 and here we go for commit 
+=======
+This is my another commit
+and here we go for commit 
+>>>>>>> feauture
